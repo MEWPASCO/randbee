@@ -16,6 +16,8 @@ const BLOCK_WORDS = [
 ];
 
 const QUERIES = [
+  "bee",
+  "honey bee",
   "honey bee macro photo",
   "bee pollinating flower close up",
   "bumblebee macro wildlife photo",
